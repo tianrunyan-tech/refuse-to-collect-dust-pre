@@ -2,9 +2,9 @@
 
 An app concept that turns workout videos saved on social media into habits users actually complete.
 
-**EN:** https://username.github.io/reponame
+**EN:** https://tianrunyan-tech.github.io/refuse-to-collect-dust-pre/en/
 
-**CN:** https://username.github.io/reponame
+**CN:** https://tianrunyan-tech.github.io/refuse-to-collect-dust-pre/zh/
 
 
 ## User Painpoint
